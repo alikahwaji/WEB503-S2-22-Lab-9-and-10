@@ -57,7 +57,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: `Use the following parameters for the comparison: Definition, Best Designed for?, Schema, Ability to scale, Best used for? Data Storage Model, Primary Purpose.`
 
-:arrow_right: `Using branch Lab_10 write a technical manual on setting up a Google Firebase with a testing case to demonstrate it functionality, use Lab_10.md providing screenshots with the instructions.`
+:arrow_right: `Using branch Lab_10 write a technical manual on setting up a Google Firebase with a testing case to demonstrate it functionality using index html,css and js files for the demonstration, use Lab_10.md providing screenshots with the instructions.`
 
 :arrow_right: `Merge both branches to the main branch after completing both labs.`
 
