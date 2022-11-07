@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to lab 8 👋</h1>
+<h1 align="center">Welcome to lab 9 and 10 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -47,17 +47,19 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab 8 Tasks 
+## :page_facing_up: Lab 9 and 10 Tasks 
 
-:arrow_right: `Use the HTML and CSS files provided for this lab.`
+:arrow_right: `Create two branches from the main branch.`
 
-:arrow_right: `Work in pair code group and apply the principles in a collaborative approach.`
+:arrow_right: `Name the first created branch Lab_9 and second created branch Lab_10.`
 
-:arrow_right: `Complete the functionality of the Counter app by providing the JavaScript code.`
+:arrow_right: `Using branch Lab_9 to complete a comprehensive comparison between SQL and NoSQL, provide your answer using Lab_9.md with in table styled answers.`
 
-:arrow_right: `Complete a technical report for each function of the Counter app, use the report markdown file.`
+:arrow_right: `Use the following parameters for the comparison: Definition, Best Designed for?, Schema, Ability to scale, Best used for? Data Storage Model, Primary Purpose.`
 
-:arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
+:arrow_right: `Using branch Lab_10 write a technical manual on setting up a Google Firebase with a testing case to demonstrate it functionality, use Lab_10.md providing screenshots with the instructions.`
+
+:arrow_right: `Merge both branches to the main branch after completing both labs.`
 
 ## :books: Resources 
 
